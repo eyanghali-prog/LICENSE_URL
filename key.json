@@ -4,8 +4,8 @@
     "expiry_date": "2026-07-20 12:00:00"
   },
   "key7day_abc": {
-    "duration_days": 7,
-    "expiry_date": "2026-07-26 15:30:00"
+    "duration_days": 0,
+    "expiry_date": "2026-07-26 19:07:24"
   }
 }
 
