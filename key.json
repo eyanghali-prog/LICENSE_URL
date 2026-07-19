@@ -1,12 +1,10 @@
 {
-  "KEY-WAFIQ-OK123": {
+  "WAFIQ-PREMIUM-XYZ777": {
     "expiry_date": "2026-12-31 23:59:59",
-    "status": "active"
-  },
-  "KEY-PEMBELI-NAKAL": {
-    "expiry_date": "2026-08-30 05:19:21",
-    "status": "banned"
+    "status": "active",
+    "device_id": ""
   }
 }
+
  
 
